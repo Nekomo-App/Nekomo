@@ -1,6 +1,6 @@
 # Nekomo
 
-![image](https://github.com/MarshMeadow/Nekomo/assets/88599122/18b696b9-189d-41c6-84f5-26ebbaf4a703)
+![image3](https://github.com/MarshMeadow/Nekomo/assets/88599122/a72d9ddd-fa3e-4fc5-9646-46138b29f30a)
 
 Nekomo & Coming Back Stronger!! A fork of Kuro No & Shiro. Just another gogoscraper, and allanime scrapper, based on the shiro source code..
 
