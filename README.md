@@ -71,7 +71,7 @@ Official GitHub: [HERE](https://github.com/deceptions/no)
 
 OG Dev: [Deceptions](https://github.com/deceptions)
 
-Official Kuro Discord Server: [HERE](https://discord.gg/YgeFkTMmxh)
+Official Kuro Discord Server: [HERE](https://discord.gg/YgeFkTMmxh) - (Note that this server has been walked over and spammed and possibly hacked so join at your own risk)
 
 Official Downlaods: Android.. APK: [Mobile](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk) - [TV](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
 
