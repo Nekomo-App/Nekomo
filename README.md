@@ -26,7 +26,7 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 > **Nekomo (猫も; Neko-mo)** means "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
 
-[![image](https://github.com/MarshMeadow/Nekomo/assets/88599122/d2f9143b-2031-4375-99f2-3099d4fd05fd)](https://ko-fi.com/marshmeadow)
+[![image](https://github.com/MarshMeadow/Nekomo/assets/88599122/e9eeda3c-dc8f-46e5-84f3-bae4cc551d28)](https://ko-fi.com/marshmeadow)
 
 ### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
 
