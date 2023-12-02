@@ -34,11 +34,11 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 > 
 > Please do not attempt to upload Nekomo or any of its forks on Playstore or any other Android app stores on the internet. Doing so may infringe their terms and conditions and result in legal action or immediate take-down of the app (DMCA).
 
-### OFFICIAL NEKOMO DISCORD SERVER! OPEN NOW!!🚀
-
 ## PLANNED STUFF 📝
 
 - Join the discord to see what's up! 
+
+### OFFICIAL NEKOMO DISCORD SERVER! OPEN NOW!!🚀
 
 <p align="center">
    <a href="discord.com/invite/E4Ezmgg7Ka">
