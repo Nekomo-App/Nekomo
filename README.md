@@ -41,12 +41,12 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 ### OFFICIAL NEKOMO DISCORD SERVER! OPEN NOW!!🚀
 
 <p align="center">
-   <a href="discord.com/invite/E4Ezmgg7Ka">
+   <a href="https://discord.com/invite/E4Ezmgg7Ka">
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfb00471-ff2a-408e-a085-5e722a9a0cc0/db0lvt8-6d2a5cb1-3a30-4371-8bab-c97b8a69df98.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmYjAwNDcxLWZmMmEtNDA4ZS1hMDg1LTVlNzIyYTlhMGNjMFwvZGIwbHZ0OC02ZDJhNWNiMS0zYTMwLTQzNzEtOGJhYi1jOTdiOGE2OWRmOTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DwCBSmipmF_tFvDSx_nTIk7m5LzQ8pipxUsJMdOvwII">
    </a>
 </p>
 
-[Back-up Discord Link!](discord.com/invite/E4Ezmgg7Ka)
+[Back-up Discord Link!](https://discord.com/invite/E4Ezmgg7Ka)
 
 ## REJECTED STUFF (still rejected) ❌
 
