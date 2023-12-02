@@ -62,7 +62,7 @@ You can come hang out with our awesome community, request new features, and repo
 
 **Join for more info!**
 
-OG Kuro No
+OG Kuro-No
 ----
 
 Official GitHub: [HERE](https://github.com/deceptions/no)
