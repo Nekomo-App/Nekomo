@@ -42,6 +42,9 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 [Back-up Discord Link!](discord.com/invite/E4Ezmgg7Ka)
 
+OG Kuro No
+----
+
 Official GitHub: [HERE](https://github.com/deceptions/no)
 
 [Official backup just in case of DMCA :)](https://gitee.com/deceptionss/no)
