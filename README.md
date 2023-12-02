@@ -26,7 +26,7 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 > **Nekomo (猫も; Neko-mo)** means "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
 
-<a href="https://ko-fi.com/marshmeadow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rebelonion&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://ko-fi.com/marshmeadow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=marshmeadow&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
 
