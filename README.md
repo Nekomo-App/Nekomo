@@ -12,6 +12,20 @@ Give me ideas to rebrand, new app name and logo! Please 🙏🥺
 
 [MEGA Back-Up](https://mega.nz/folder/tD9ilL5Q#gjDd7fhsSWkPdicStaQYqg)
 
+# **About:**
+
+Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime.
+
+> **Nekomo (猫も; Neko-mo)** means "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
+
+<a href="https://ko-fi.com/marshmeadow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rebelonion&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
+
+> **WARNING ⚠️**
+> 
+> Please do not attempt to upload Nekomo or any of its forks on Playstore or any other Android app stores on the internet. Doing so may infringe their terms and conditions and result in legal action or immediate take-down of the app (DMCA).
+
 My Discord Server/Group Chat: [OPEN NOW](https://discord.com/invite/E4Ezmgg7Ka)
 
 Official GitHub: [HERE](https://github.com/deceptions/no)
