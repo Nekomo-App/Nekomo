@@ -44,10 +44,11 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 [Back-up Discord Link!](discord.com/invite/E4Ezmgg7Ka)
 
-REJECTED STUFF (still rejected) ❌
-- Official support of any language except English 🌐
-- UI change
+## REJECTED STUFF (still rejected) ❌
 
+- Official support of any language except English 🌐
+- UI change/update
+- 
 OG Kuro No
 ----
 
