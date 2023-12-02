@@ -12,7 +12,7 @@ Give me ideas to rebrand, new app name and logo! Please 🙏🥺
 
 **Latest Downloads:**
 ----
-[Website]()
+[Website]() (Coming Soon!)
 
 [Github](https://github.com/MarshMeadow/Nekomo/releases)
 
