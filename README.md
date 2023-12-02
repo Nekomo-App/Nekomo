@@ -36,7 +36,7 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 <p align="center">
    <a href="https://discord.com/invite/E4Ezmgg7Ka">
-      <img src="https://invidget.switchblade.xyz/4HPZ5nAWwM">
+      <img src="https://github.com/MarshMeadow/kuro-no-reborn/assets/88599122/8b8045aa-3de6-41a3-b613-ff8e464a35fd">
    </a>
 </p>
 
