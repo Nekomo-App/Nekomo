@@ -49,6 +49,20 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 - Official support of any language except English 🌐
 - UI change/update
 
+## WANT TO CONTRIBUTE? 🤝
+
+All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. Please use GitHub to its fullest; contribute Pull Requests, contribute tutorials or other content - whatever you have to offer, we can use!
+
+You can come hang out with our awesome community, request new features, and report any bugs or issues at our Discord server too. 📣
+
+### OFFICIAL DISCORD SERVER 🚀
+
+<p align="center">
+   <a href="discord.com/invite/E4Ezmgg7Ka">
+      <img src="https://invidget.switchblade.xyz/4HPZ5nAWwM">
+   </a>
+</p>
+
 OG Kuro No
 ----
 
