@@ -20,6 +20,8 @@ Give me ideas to rebrand, new app name and logo! Please 🙏🥺
 
 Others: Coming Soon!
 
+In case of DMCA: Coming Soon!
+
 # **About: ℹ️**
 
 Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime.
