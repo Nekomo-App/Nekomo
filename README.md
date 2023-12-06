@@ -26,7 +26,7 @@ In case of DMCA: Coming Soon!
 
 Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](https://anilist.co/) only client, offering the ability to stream and download Anime.
 
-> **Nekomo (猫も; Neko-mo)** means "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
+> **Nekomo (猫も; Neko-mo)** means "Cat Too" or "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
 
 [![image](https://github.com/MarshMeadow/Nekomo/assets/88599122/e9eeda3c-dc8f-46e5-84f3-bae4cc551d28)](https://ko-fi.com/marshmeadow)
 
