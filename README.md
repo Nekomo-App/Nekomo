@@ -67,9 +67,9 @@ You can come hang out with our awesome community, request new features, and repo
 OG Kuro-No
 ----
 
-Official GitHub: [HERE](https://github.com/deceptions/no)
+Official Kuro no GitHub: [HERE](https://github.com/deceptions/no)
 
-[Official backup just in case of DMCA :)](https://gitee.com/deceptionss/no)
+[Official kuro no backup just in case of DMCA :)](https://gitee.com/deceptionss/no)
 
 OG Dev: [Deceptions](https://github.com/deceptions)
 
