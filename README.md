@@ -78,6 +78,8 @@ Official Kuro Discord Server: [HERE](https://discord.gg/YgeFkTMmxh) - (Note that
 Official Downloads:
 [Mobile](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk) - [TV](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
 
+OG Shiro: [Here](https://github.com/MarshMeadow/shiro-app)
+
 ----
 
 **Note that! these are just scrappers and do not store any anime on it's servers.**
