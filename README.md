@@ -85,4 +85,4 @@ OG Shiro: [Here](https://github.com/MarshMeadow/shiro-app)
 **🤐 MUM'S THE WORD:
    No spreading rumors; keep us a hidden gem. Don't make us famous, and shush about us outside.**
 
-**Note that! these are just scrappers and do not store any anime on it's servers.**
+**PLEASE READ: Note that! these are just scrappers and do not store any anime on it's servers.**
