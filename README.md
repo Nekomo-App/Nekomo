@@ -34,7 +34,7 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 > **WARNING ⚠️**
 > 
-> Please do not attempt to upload Nekomo or any of its forks on Playstore or any other Android app stores on the internet. Doing so may infringe their terms and conditions and result in legal action or immediate take-down of the app (DMCA).
+> Please do not attempt to upload Nekomo (Kuro no or Shiro) or any of its forks on Playstore or any other Android app stores on the internet. Doing so may infringe their terms and conditions and result in legal action or immediate take-down of the app (DMCA).
 
 ## PLANNED STUFF 📝
 
