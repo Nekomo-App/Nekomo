@@ -67,8 +67,7 @@ You can come hang out with our awesome community, request new features, and repo
 
 ## Our VISITORS
 
-<img src="https://moe-counter.glitch.me/get/@:MarshMeadowNekomo
-" alt=":rebeloniondantotsu" />
+<img src="https://moe-counter.glitch.me/get/@:MarshMeadowNekomo" alt=":rebeloniondantotsu" />
 
 OG Kuro-No
 ----
