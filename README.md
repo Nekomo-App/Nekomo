@@ -54,7 +54,8 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 - Official support of any language except English 🌐
 - UI change/update
-- New logos
+- New Names or Logos
+- Hentai (you can use other apps or the internet for that..)
 
 ## WANT TO CONTRIBUTE? 🤝
 
