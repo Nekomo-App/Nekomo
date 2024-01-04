@@ -10,7 +10,7 @@ Idk when or if I will do this, I may not get started on this for a while, or may
 
 Give me ideas to rebrand, new app name and logo! Please 🙏🥺
 
-**Latest Downloads: 🔻**
+**Latest Downloads (Being worked on): 🔻**
 ----
 [Website](https://marshmeadows.neocities.org/nekomo/uwu-apk) (Coming Soon!/Being worked on..)
 
