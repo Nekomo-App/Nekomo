@@ -1,4 +1,4 @@
-# Nekomo
+# Nekomo (Planned)
 
 ![image2](https://github.com/MarshMeadow/Nekomo/assets/88599122/61d417ce-dc5b-4f21-860a-10ff02ab26c9)
 
