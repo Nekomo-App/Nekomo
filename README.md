@@ -99,3 +99,9 @@ Other Apps:
 1. [Dantotsu App (Saikou Fork)](https://dantotsu.app/) - [GitHub](https://github.com/rebelonion/Dantotsu) - [Discord](https://discord.com/invite/4HPZ5nAWwM) - [Telegram](https://t.me/+gzBCQExtLQo1YTNh) - [Reddit](https://www.reddit.com/r/dantotsu/) 
 
 2. [Cloudstream](https://cloudstream-on-fleek-co.ipns.dweb.link/) - [Github](https://github.com/recloudstream/cloudstream) - [Discord](https://discord.gg/5Hus6fM) - [Telegram](https://t.me/s/Cloudstream3?before=14) - [Reddit](https://t.me/s/Cloudstream3?before=14)
+
+3. Miru App (links coming)
+
+4. Kaizoyu! App (links coming)
+
+5. [Anilab App](https://anilab.to/) - Telegram/NA
