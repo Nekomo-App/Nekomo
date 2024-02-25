@@ -6,9 +6,9 @@ Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for wat
 
 Dev info: The OG Dev is being quiet, and is no longer doing anything, and the app is being buggy, so I wanna take it in my own hands! 
 
-Idk when or if I will do this, I may not get started on this for a while, or may just give up..
+Idk if or when I will do this, I am focusing on either apps and things.. I may not get started on this for a while, or may just give up..
 
-Give me ideas to rebrand, new app name and logo! Please 🙏🥺
+Go TO To The Bottom For other Recommended Apps..
 
 **Latest Downloads (Planned, being worked on..): 🔻**
 ----
@@ -91,3 +91,9 @@ Rule 1: **🤐 MUM'S THE WORD:
    No spreading rumors; keep us a hidden gem. Don't make us famous, and shush about us outside.**
 
 **PLEASE READ: Note that! these are just scrappers and do not store any anime on it's servers.**
+
+----
+
+Other Apps: 1. [Dantotsu App (Saikou Fork)](https://dantotsu.app/) - [GitHub](https://github.com/rebelonion/Dantotsu) - [Discord](https://discord.com/invite/4HPZ5nAWwM) - [Telegram](https://t.me/+gzBCQExtLQo1YTNh) [Reddit](https://www.reddit.com/r/dantotsu/) 
+
+2. [Cloudstream](https://cloudstream-on-fleek-co.ipns.dweb.link/) - [Github](https://github.com/recloudstream/cloudstream) - [Discord](https://discord.gg/5Hus6fM) - [Telegram](https://t.me/s/Cloudstream3?before=14) - [Reddit](https://t.me/s/Cloudstream3?before=14)
