@@ -8,7 +8,7 @@ Dev info: The OG Dev is being quiet, and is no longer doing anything, and the ap
 
 Idk if or when I will do this, I am focusing on either apps and things.. I may not get started on this for a while, or may just give up..
 
-Go TO To The Bottom For other Recommended Apps..
+Go to the bottom for other recommended apps..
 
 **Latest Downloads (Planned, being worked on..): 🔻**
 ----
