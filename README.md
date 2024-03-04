@@ -6,8 +6,6 @@ Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for wat
 
 Dev info: The OG Dev is being quiet, and is no longer doing anything, and the app is being buggy, so I wanna take it in my own hands! 
 
-Go to the bottom for other recommended apps..
-
 **Latest Downloads: 🔻**
 ----
 [Website](https://marshmeadows.neocities.org/nekomo/uwu-apk) (Coming Soon!/Being worked on..)
