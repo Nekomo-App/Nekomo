@@ -1,4 +1,4 @@
-# Nekomo (Planned)
+# Nekomo
 
 ![image2](https://github.com/MarshMeadow/Nekomo/assets/88599122/61d417ce-dc5b-4f21-860a-10ff02ab26c9)
 
@@ -6,11 +6,9 @@ Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for wat
 
 Dev info: The OG Dev is being quiet, and is no longer doing anything, and the app is being buggy, so I wanna take it in my own hands! 
 
-Idk if or when I will do this, I am focusing on either apps and things.. I may not get started on this for a while, or may just give up..
-
 Go to the bottom for other recommended apps..
 
-**Latest Downloads (Planned, being worked on..): 🔻**
+**Latest Downloads: 🔻**
 ----
 [Website](https://marshmeadows.neocities.org/nekomo/uwu-apk) (Coming Soon!/Being worked on..)
 
