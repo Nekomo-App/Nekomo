@@ -12,7 +12,7 @@ Please note that we will be going private at some point..
 ----
 [Website](https://marshmeadows.neocities.org/nekomo/uwu-apk) (Coming Soon!/Being worked on..)
 
-<i class="fa fa-github" style="font-size:48px;color:red"></i> [Github](https://github.com/MarshMeadow/Nekomo/releases)
+<i class="fa fa-github" style="font-size:48px;color:red"></i> [Github](https://github.com/Nekomo-App/Nekomo/releases)
 
 [MEGA Back-Up](https://mega.nz/folder/tD9ilL5Q#gjDd7fhsSWkPdicStaQYqg)
 
