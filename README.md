@@ -6,6 +6,8 @@ Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for wat
 
 Dev info: The OG Dev is being quiet, and is no longer doing anything, and the app is being buggy, so I wanna take it in my own hands! 
 
+PLEASE NOTE THAT THIS APP MAY NOT WORK FOR NOW, THIS IS GOING REALLY SLOWLY!!
+
 Please note that we will be going private at some point..
 
 **Latest Downloads: 🔻**
