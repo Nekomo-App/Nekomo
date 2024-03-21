@@ -16,7 +16,9 @@ Please note that we will be going private at some point..
 
 <i class="fa fa-github" style="font-size:48px;color:red"></i> [Github](https://github.com/Nekomo-App/Nekomo/releases)
 
-[MEGA Back-Up](https://mega.nz/folder/tD9ilL5Q#gjDd7fhsSWkPdicStaQYqg)
+[old MEGA Back-Up]()
+
+[New MEGA Back-Up]() Coming soon!
 
 Others: Coming Soon!
 
