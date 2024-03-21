@@ -1,7 +1,7 @@
 # Nekomo
 
-<div style="text-align:center;">
-    <img src="https://github.com/MarshMeadow/Nekomo/assets/88599122/61d417ce-dc5b-4f21-860a-10ff02ab26c9" alt="GitHub Image" width="200">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/MarshMeadow/Nekomo/assets/88599122/61d417ce-dc5b-4f21-860a-10ff02ab26c9" alt="GitHub Image" width="500">
 </div>
 
 Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for watching anime. Just another anime scrapper, based on the shiro source code.. (Please, Do not share or make us popular!)
