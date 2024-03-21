@@ -61,6 +61,8 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [Anilist](http
 
 ## WANT TO CONTRIBUTE? 🤝
 
+OG kuro Devs/Contributors: Github: deceptions (kuro no), and LagradOst/Blatzar (Cloudstream)
+
 All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports. Please use GitHub to its fullest; contribute Pull Requests, contribute tutorials or other content - whatever you have to offer, we can use!
 
 You can come hang out with our awesome community, request new features, and report any bugs or issues at our Discord server too. 📣
@@ -122,6 +124,4 @@ Other Apps:
 
 3. Miru App (links coming)
 
-4. Kaizoyu! App (links coming)
-
-5. [Anilab App](https://anilab.to/) - Telegram/NA
+4. [Anilab App](https://anilab.to/) - Telegram/NA
