@@ -118,7 +118,7 @@ Nekomo Dev Team
 
 ----
 
-Other Apps: 
+Other Recommended Apps: 
 
 1. [Dantotsu App (Saikou Fork)](https://dantotsu.app/) - [GitHub](https://github.com/rebelonion/Dantotsu) - [Discord](https://discord.com/invite/4HPZ5nAWwM) - [Telegram](https://t.me/+gzBCQExtLQo1YTNh) - [Reddit](https://www.reddit.com/r/dantotsu/) 
 
