@@ -12,7 +12,7 @@ Please note that we will be going private at some point..
 
 **Latest Downloads: 🔻**
 ----
-[Website](https://marshmeadows.neocities.org/nekomo/uwu-apk) (Coming Soon!/Being worked on..)
+[Website](https://nekomoapp.neocities.org/) (Being worked on..) - May be down sometimes..
 
 <i class="fa fa-github" style="font-size:48px;color:red"></i> [Github](https://github.com/Nekomo-App/Nekomo/releases)
 
