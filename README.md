@@ -130,4 +130,4 @@ Other Recommended Apps:
 
 3. Miru App (links coming)
 
-4. [Anilab App](https://anilab.to/) - Telegram/NA
+4. [Anilab App](https://anilab.to/) - Telegram-n/a
