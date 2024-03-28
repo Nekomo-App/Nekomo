@@ -8,7 +8,7 @@ Nekomo Coming Back Stronger!! A fork of Kuro No & Shiro (og source code) for wat
 
 Dev info: The OG Dev is being quiet, and is no longer doing anything, and the app is being buggy, so I wanna take it in my own hands! 
 
-> **ALERT ⚠️**
+> **ALERT (Please Read)⚠️**
 > 
 > Please be aware that this app is currently on hold and may not function properly. I am uncertain about its future. Progress is slow, if any progress is being made at all. I believe we need to update and clean/optimize the code to improve its performance, but there's a possibility that we may have to wait and start from scratch. There are no promises regarding its functionality, as this is a personal project. I will likely pause work on the project, and it may be a couple of years, maybe more, before any significant progress is made. Anyone is welcome to take over and contribute—we need more developers.
 
