@@ -135,3 +135,5 @@ Other Recommended Apps:
 3. Miru App (links coming)
 
 4. [Anilab App](https://anilab.to/) - Telegram-n/a
+
+-- Friends with Dantotsu, Kitsune, AnimeTV, Kamyroll HDO PRO (private), and many more..
