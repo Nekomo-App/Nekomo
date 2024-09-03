@@ -120,6 +120,10 @@ Thanks for reading,
 
 Nekomo Dev Team
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nekomo-App/Nekomo&type=Date)](https://star-history.com/#Nekomo-App/Nekomo&Date)
+
 ----
 
 Other Recommended Apps: 
