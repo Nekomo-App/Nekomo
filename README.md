@@ -10,7 +10,13 @@ Just another anime scraper based on the Shiro source code.
 
 ---
 
-# Dev Info
+> ## ⚠️ DMCA & LEGAL NOTICE
+>
+> Please read the **DMCA & Legal Disclaimer** located at the bottom of this page before downloading, using, contributing to, or discussing Nekomo.
+
+---
+
+# 🛠️ Dev Info
 
 The OG developer has been quiet and is no longer doing anything, and the app has become buggy, so I want to take it into my own hands!
 
@@ -48,7 +54,7 @@ In case of DMCA: Coming soon!
 
 # ℹ️ About
 
-Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [AniList](https://anilist.co/) only client, offering the ability to stream and download anime.
+Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 AniList only client, offering the ability to stream and download anime.
 
 > **Nekomo (猫も; Neko-mo)** means "Cat Too" or the "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
 
@@ -63,12 +69,6 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [AniList](http
 > **WARNING ⚠️**
 >
 > Please do not attempt to upload Nekomo (Kuro No, Shiro, or any of its forks) to the Play Store or any other Android app stores on the internet. Doing so may infringe upon their terms and conditions and result in legal action or the immediate takedown of the app (DMCA).
-
----
-
-# 📝 PLANNED STUFF
-
-* Join the Discord to see what's up!
 
 ---
 
@@ -88,16 +88,43 @@ Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 [AniList](http
 
 ---
 
-# ❌ REJECTED STUFF (Still Rejected)
+# 🤐 Rule 1
+
+## MUM'S THE WORD
+
+No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet about us outside of the community.
+
+---
+
+<details>
+<summary><strong>📝 Planned Stuff</strong></summary>
+
+<br>
+
+* Join the Discord to see what's up!
+
+</details>
+
+---
+
+<details>
+<summary><strong>❌ Rejected Stuff (Still Rejected)</strong></summary>
+
+<br>
 
 * Official support for any language except English 🌐
 * UI changes/updates
 * New names or logos
 * Hentai *(you can use other apps or the internet for that...)*
 
+</details>
+
 ---
 
-# 🤝 WANT TO CONTRIBUTE?
+<details>
+<summary><strong>🤝 Want To Contribute?</strong></summary>
+
+<br>
 
 ### OG Kuro developers/contributors:
 
@@ -110,19 +137,29 @@ You can come hang out with our awesome community, request new features, and repo
 
 **Join for more info!**
 
+</details>
+
 ---
 
-<div align="center">
+<details>
+<summary><strong>👀 Our Visitors</strong></summary>
 
-# 👀 OUR VISITORS
+<br>
+
+<div align="center">
 
 <img src="https://count.getloli.com/get/@:marshmeadownekomo" alt=":rebeloniondantotsu" />
 
 </div>
 
+</details>
+
 ---
 
-# 🏴 OG Kuro-No
+<details>
+<summary><strong>🏴 OG Kuro-No Information</strong></summary>
+
+<br>
 
 Official Kuro No GitHub: [HERE](https://github.com/deceptions/no)
 
@@ -142,35 +179,6 @@ Official Kuro Discord Server: [HERE](https://discord.gg/YgeFkTMmxh)
 
 What's left of the OG Shiro source (fork): [Here](https://github.com/MarshMeadow/shiro-app)
 
----
-
-# 🤐 Rule 1
-
-## MUM'S THE WORD
-
-No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet about us outside of the community.
-
----
-
-<details>
-<summary><strong>⚠️ IMPORTANT: DMCA & LEGAL DISCLAIMER (Click to Read)</strong></summary>
-
-<br>
-
-* Nekomo is an open-source application and does **not** host, store, upload, or distribute any media content.
-
-* Nekomo does **not** operate or control any streaming servers, content providers, or third-party sources.
-
-* Any metadata, images, or information displayed in the app may come from third-party APIs and services.
-
-* Nekomo is **not affiliated with, endorsed by, sponsored by, or connected to** AniList, MyAnimeList, Kitsu, TMDb, or any other content provider unless explicitly stated.
-
-* All content, trademarks, and copyrights belong to their respective owners.
-
-* Users are responsible for how they use the software and for complying with applicable laws and regulations.
-
-* If you believe content infringes your rights, please contact the source or provider hosting that content directly. Nekomo cannot remove content it does not host or control.
-
 </details>
 
 ---
@@ -181,7 +189,10 @@ No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet 
 
 ---
 
-# 📱 Other Recommended Apps
+<details>
+<summary><strong>📱 Other Recommended Apps</strong></summary>
+
+<br>
 
 ### 1. Dantotsu App (Saikou Fork)
 
@@ -208,6 +219,8 @@ No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet 
 * [Website](https://anilab.to/)
 * Telegram: N/A
 
+</details>
+
 ---
 
 <div align="center">
@@ -215,3 +228,29 @@ No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet 
 ### 🤝 Friends with Dantotsu, Kitsune, AnimeTV, Kamyroll, HDO PRO (private), and many more...
 
 </div>
+
+---
+
+# ⚖️ DMCA & LEGAL DISCLAIMER
+
+**Please read this section carefully before using, distributing, or contributing to Nekomo.**
+
+* Nekomo is an open-source application and does **not** host, store, upload, distribute, or provide any media content.
+
+* Nekomo does **not** operate, maintain, own, or control any streaming servers, content providers, media sources, or third-party services.
+
+* Any metadata, artwork, images, episode information, titles, descriptions, or other information displayed within the application may be obtained from third-party APIs and services.
+
+* Nekomo is **not affiliated with, endorsed by, sponsored by, or officially connected to** AniList, MyAnimeList, Kitsu, TMDb, or any other content provider, service, company, or trademark owner unless explicitly stated.
+
+* All trademarks, copyrights, logos, names, media, and intellectual property belong to their respective owners.
+
+* Users are solely responsible for how they use the software and must comply with all applicable local, national, and international laws.
+
+* Developers, contributors, maintainers, and community members are not responsible for how third parties use the application.
+
+* If you believe content infringes your rights, please contact the service, source, provider, or website hosting that content directly. Nekomo cannot remove content that it does not host, own, control, or distribute.
+
+* By using Nekomo, you acknowledge and agree that you are using the software at your own discretion and risk.
+
+---
