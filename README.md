@@ -1,256 +1,229 @@
 <div align="center">
 
-# 🐱 Nekomo App
+# 🐱 Nekomo
 
-Just another anime scraper based on the Shiro source code.
+### A community-driven anime client built from the legacy Shiro and Kuro projects
 
-*(Please do not share or make us popular!)*
+[![GitHub Stars](https://img.shields.io/github/stars/Nekomo-App/Nekomo?style=for-the-badge&logo=github&color=f5c542)](https://github.com/Nekomo-App/Nekomo/stargazers)
+[![Discord](https://img.shields.io/discord/111111111111111111?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.com/invite/E4Ezmgg7Ka)
+[![License](https://img.shields.io/badge/license-see%20legal%20notice-lightgrey?style=for-the-badge)](#-dmca--legal-disclaimer)
 
-</div>
+<p>
+  <strong>Discover anime, follow your watchlist, and explore community-driven resources.</strong>
+</p>
 
----
-
-> ## ⚠️ DMCA & LEGAL NOTICE
->
-> Please read the **DMCA & Legal Disclaimer** located at the bottom of this page before downloading, using, contributing to, or discussing Nekomo.
-
----
-
-# 🛠️ Dev Info
-
-The OG developer has been quiet and is no longer doing anything, and the app has become buggy, so I want to take it into my own hands!
-
-> **ALERT (Please Read) ⚠️**
->
-> Nekomo is currently **on hold** and may not function properly. The original developer is inactive, the app has become buggy, and future development is uncertain. The project may receive updates in the future, be rewritten from scratch, remain inactive, or eventually be continued by other contributors.
->
-> There are no guarantees regarding functionality, updates, or releases. Anyone interested in helping is welcome to contribute, as additional developers are needed.
->
-> For now, Nekomo primarily serves as an **anime community** where members can discuss anime, share resources, discover alternative apps, and exchange information about anime-related projects and applications.
->
-> Please note that the project may become private at some point in the future.
-
----
-
-<div align="center">
-
-# 📥 Latest Downloads
+<p>
+  <a href="https://github.com/Nekomo-App/Nekomo/releases">Download</a>
+  ·
+  <a href="https://discord.com/invite/E4Ezmgg7Ka">Join the Discord</a>
+  ·
+  <a href="https://github.com/Nekomo-App/Nekomo/issues">Report an Issue</a>
+</p>
 
 </div>
 
-[Website](https://nekomoapp.neocities.org/) *(Being worked on...)* — May be down sometimes.
+> [!WARNING]
+> **Nekomo is currently on hold.** The original developer is inactive, and the application may be buggy or unreliable. Future development, releases, and functionality are not guaranteed.
 
-<i class="fa fa-github" style="font-size:48px;color:red"></i> [GitHub](https://github.com/Nekomo-App/Nekomo/releases)
-
-[Old MEGA Back-Up]()
-
-[New MEGA Back-Up]() — Coming soon!
-
-Others: Coming soon!
-
-In case of DMCA: Coming soon!
+> [!IMPORTANT]
+> Please read the [DMCA & Legal Disclaimer](#-dmca--legal-disclaimer) before downloading, using, contributing to, or discussing Nekomo.
 
 ---
 
-# ℹ️ About
+## ✨ About Nekomo
 
-Nekomo is crafted from the ashes of Kuro No & Shiro. It's an 🎌 AniList only client, offering the ability to stream and download anime.
+Nekomo is an anime-focused Android client created from the ashes of the original **Kuro No** and **Shiro** projects.
 
-> **Nekomo (猫も; Neko-mo)** means "Cat Too" or the "sound of [moving] a shogi piece" in Japanese. Try it out for yourself and be the judge!
+The application is designed to provide:
+
+- 🎌 AniList-based anime discovery
+- 📺 Anime streaming through third-party sources
+- ⬇️ Download support
+- 📚 Watchlist and anime information
+- 🌐 Community discussions and project resources
+
+Nekomo is **not affiliated with or officially endorsed by AniList, MyAnimeList, Kitsu, TMDb, or any other third-party service**.
+
+> **Nekomo** — `猫も` (*Neko-mo*) — can mean “cat too” in Japanese. It can also refer to the sound of moving a shogi piece.
+
+---
+
+## 📥 Downloads
 
 <div align="center">
 
-[![image](https://github.com/MarshMeadow/Nekomo/assets/88599122/e9eeda3c-dc8f-46e5-84f3-bae4cc551d28)](https://ko-fi.com/marshmeadow)
+### Latest Releases
 
-### 🚀 STAR THIS REPOSITORY TO SUPPORT THE DEVELOPER AND ENCOURAGE THE DEVELOPMENT OF THE APPLICATION!
+[![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-181717?style=for-the-badge&logo=github)](https://github.com/Nekomo-App/Nekomo/releases)
+
+[Website](https://nekomoapp.neocities.org/) · [GitHub Repository](https://github.com/Nekomo-App/Nekomo)
 
 </div>
 
-> **WARNING ⚠️**
->
-> Please do not attempt to upload Nekomo (Kuro No, Shiro, or any of its forks) to the Play Store or any other Android app stores on the internet. Doing so may infringe upon their terms and conditions and result in legal action or the immediate takedown of the app (DMCA).
+> The website is currently being worked on and may occasionally be unavailable.
+
+Additional mirrors and backup links may be added in the future.
 
 ---
 
-<div align="center">
+## 🚧 Project Status
 
-# 🚀 OFFICIAL NEKOMO DISCORD SERVER! OPEN NOW!!
+Nekomo is currently maintained as a community project and is **not under active, guaranteed development**.
+
+The project may:
+
+- Receive future updates
+- Be rewritten from scratch
+- Remain inactive
+- Be continued by new contributors
+- Become private in the future
+
+For now, Nekomo also serves as an anime community where members can discuss anime, exchange resources, discover alternative applications, and share information about related projects.
+
+---
+
+## 💬 Community
+
+Join the official community to:
+
+- Discuss anime and related projects
+- Report bugs
+- Request features
+- Share development ideas
+- Find alternative applications
+- Learn about the project's current status
+
+<div align="center">
 
 <a href="https://discord.com/invite/E4Ezmgg7Ka">
-   <img src="https://invidget.switchblade.xyz/E4Ezmgg7Ka">
+  <img src="https://invidget.switchblade.xyz/E4Ezmgg7Ka" alt="Join the Nekomo Discord server">
+</a>
+
+<br><br>
+
+<a href="https://discord.com/invite/E4Ezmgg7Ka">
+  <img src="https://img.shields.io/badge/Join%20the%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
 </a>
 
 </div>
 
-[Back-Up Discord Link!](https://discord.com/invite/E4Ezmgg7Ka)
+---
 
-[Telegram]() *(Not available. You need to join the Discord to join.)*
+## 🤝 Contributing
+
+Contributions are welcome, including:
+
+- Code improvements
+- Bug reports
+- Documentation
+- UI and design suggestions
+- Tutorials
+- Testing
+- Project maintenance
+
+Please use GitHub for code contributions and issue reports. The Discord community can be used for discussion, feature ideas, and general project coordination.
+
+### Original Kuro Contributors
+
+- [Deceptions](https://github.com/deceptions) — Original Kuro developer
+- [LagradOst / Blatzar](https://github.com/LagradOst) — Cloudstream contributor
 
 ---
 
-# 🤐 Rule 1
+## 📌 Project Guidelines
 
-## MUM'S THE WORD
+### Keep the Project Low-Key
 
-No spreading rumors; keep us a hidden gem. Don't make us famous, and keep quiet about us outside of the community.
+Please do not spread rumors or aggressively promote Nekomo outside the community.
 
----
+### Unsupported or Rejected Features
 
-<details>
-<summary><strong>📝 Planned Stuff</strong></summary>
+The following are currently rejected or unsupported:
 
-<br>
-
-* Join the Discord to see what's up!
-
-</details>
+- Official support for languages other than English
+- Major UI changes or redesigns
+- New names or logos
+- Hentai content
 
 ---
 
-<details>
-<summary><strong>❌ Rejected Stuff (Still Rejected)</strong></summary>
+## 🐾 Credits and Related Projects
 
-<br>
+Nekomo is based on work from the following projects:
 
-* Official support for any language except English 🌐
-* UI changes/updates
-* New names or logos
-* Hentai *(you can use other apps or the internet for that...)*
+- [Kuro No](https://github.com/deceptions/no)
+- [Kuro No Backup](https://gitee.com/deceptionss/no)
+- [Shiro App](https://github.com/MarshMeadow/shiro-app)
 
-</details>
+### Original Kuro Resources
 
----
+- [Original Kuro No GitHub](https://github.com/deceptions/no)
+- [Kuro No Backup Repository](https://gitee.com/deceptionss/no)
+- [Original Developer — Deceptions](https://github.com/deceptions)
+- [Original Kuro Discord](https://discord.gg/YgeFkTMmxh)
 
-<details>
-<summary><strong>🤝 Want To Contribute?</strong></summary>
+> [!CAUTION]
+> The original Kuro Discord server may have been compromised, spammed, or otherwise taken over. Join it at your own risk.
 
-<br>
+### Archived Downloads
 
-### OG Kuro developers/contributors:
-
-* GitHub: deceptions (Kuro No)
-* LagradOst/Blatzar (Cloudstream)
-
-All contributions are welcome, from code to documentation, graphics, design suggestions, and bug reports. Please use GitHub to its fullest; contribute pull requests, tutorials, or any other content—whatever you have to offer, we can use!
-
-You can come hang out with our awesome community, request new features, and report bugs or issues on our Discord server too. 📣
-
-**Join for more info!**
-
-</details>
+- [Kuro No Mobile 2.2.3](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk)
+- [Kuro No TV 2.2.3](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
 
 ---
 
-<details>
-<summary><strong>👀 Our Visitors</strong></summary>
+## 📱 Alternative Applications
 
-<br>
+If Nekomo is unavailable or does not meet your needs, you may wish to explore these other projects:
+
+| Project | Links |
+|---|---|
+| **Dantotsu** | [Website](https://dantotsu.app/) · [GitHub](https://github.com/rebelonion/Dantotsu) · [Discord](https://discord.com/invite/4HPZ5nAWwM) · [Telegram](https://t.me/+gzBCQExtLQo1YTNh) · [Reddit](https://www.reddit.com/r/dantotsu/) |
+| **Cloudstream** | [Website](https://cloudstream-on-fleek-co.ipns.dweb.link/) · [GitHub](https://github.com/recloudstream/cloudstream) · [Discord](https://discord.gg/5Hus6fM) · [Telegram](https://t.me/s/Cloudstream3?before=14) |
+| **Miru** | Links coming soon |
+| **Anilab** | [Website](https://anilab.to/) |
 
 <div align="center">
 
-<img src="https://count.getloli.com/get/@:marshmeadownekomo" alt=":rebeloniondantotsu" />
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><strong>🏴 OG Kuro-No Information</strong></summary>
-
-<br>
-
-Official Kuro No GitHub: [HERE](https://github.com/deceptions/no)
-
-[Official Kuro No backup, just in case of DMCA :)](https://gitee.com/deceptionss/no)
-
-OG Developer: [Deceptions](https://github.com/deceptions)
-
-Official Kuro Discord Server: [HERE](https://discord.gg/YgeFkTMmxh)
-
-*(Note that this server has been walked over, spammed, and possibly hacked, so join at your own risk.)*
-
-### Official Downloads
-
-[Mobile](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk)
-
-[TV](https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
-
-What's left of the OG Shiro source (fork): [Here](https://github.com/MarshMeadow/shiro-app)
-
-</details>
-
----
-
-# ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Nekomo-App/Nekomo\&type=Date)](https://star-history.com/#Nekomo-App/Nekomo&Date)
-
----
-
-<details>
-<summary><strong>📱 Other Recommended Apps</strong></summary>
-
-<br>
-
-### 1. Dantotsu App (Saikou Fork)
-
-* [Website](https://dantotsu.app/)
-* [GitHub](https://github.com/rebelonion/Dantotsu)
-* [Discord](https://discord.com/invite/4HPZ5nAWwM)
-* [Telegram](https://t.me/+gzBCQExtLQo1YTNh)
-* [Reddit](https://www.reddit.com/r/dantotsu/)
-
-### 2. Cloudstream
-
-* [Website](https://cloudstream-on-fleek-co.ipns.dweb.link/)
-* [GitHub](https://github.com/recloudstream/cloudstream)
-* [Discord](https://discord.gg/5Hus6fM)
-* [Telegram](https://t.me/s/Cloudstream3?before=14)
-* [Reddit](https://t.me/s/Cloudstream3?before=14)
-
-### 3. Miru App
-
-*(Links coming)*
-
-### 4. Anilab App
-
-* [Website](https://anilab.to/)
-* Telegram: N/A
-
-</details>
-
----
-
-<div align="center">
-
-### 🤝 Friends with Dantotsu, Kitsune, AnimeTV, Kamyroll, HDO PRO (private), and many more...
+Friends with **Dantotsu**, **Kitsune**, **AnimeTV**, **Kamyroll**, **HDO PRO** *(private)*, and many more.
 
 </div>
 
 ---
 
-# ⚖️ DMCA & LEGAL DISCLAIMER
+## ⭐ Support the Project
 
-**Please read this section carefully before using, distributing, or contributing to Nekomo.**
+If you find Nekomo useful, consider starring the repository. Stars help show interest in the project and encourage future development.
 
-* Nekomo is an open-source application and does **not** host, store, upload, distribute, or provide any media content.
+<div align="center">
 
-* Nekomo does **not** operate, maintain, own, or control any streaming servers, content providers, media sources, or third-party services.
+[![Star the repository](https://img.shields.io/badge/⭐%20Star%20Nekomo%20on%20GitHub-f5c542?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nekomo-App/Nekomo)
 
-* Any metadata, artwork, images, episode information, titles, descriptions, or other information displayed within the application may be obtained from third-party APIs and services.
+</div>
 
-* Nekomo is **not affiliated with, endorsed by, sponsored by, or officially connected to** AniList, MyAnimeList, Kitsu, TMDb, or any other content provider, service, company, or trademark owner unless explicitly stated.
-
-* All trademarks, copyrights, logos, names, media, and intellectual property belong to their respective owners.
-
-* Users are solely responsible for how they use the software and must comply with all applicable local, national, and international laws.
-
-* Developers, contributors, maintainers, and community members are not responsible for how third parties use the application.
-
-* If you believe content infringes your rights, please contact the service, source, provider, or website hosting that content directly. Nekomo cannot remove content that it does not host, own, control, or distribute.
-
-* By using Nekomo, you acknowledge and agree that you are using the software at your own discretion and risk.
+[![Star History Chart](https://api.star-history.com/svg?repos=Nekomo-App/Nekomo&type=Date)](https://star-history.com/#Nekomo-App/Nekomo&Date)
 
 ---
+
+## ⚖️ DMCA & Legal Disclaimer
+
+Please read this section carefully before using, distributing, or contributing to Nekomo.
+
+- Nekomo is an open-source application and does **not** host, store, upload, distribute, or provide media content.
+- Nekomo does **not** operate, maintain, own, or control streaming servers, content providers, media sources, or third-party services.
+- Metadata, artwork, images, episode information, titles, descriptions, and other displayed information may come from third-party APIs or services.
+- Nekomo is not affiliated with, endorsed by, sponsored by, or officially connected to AniList, MyAnimeList, Kitsu, TMDb, or any other content provider, company, service, or trademark owner unless explicitly stated.
+- All trademarks, copyrights, logos, names, media, and other intellectual property belong to their respective owners.
+- Users are solely responsible for how they use the software and must comply with all applicable local, national, and international laws.
+- Developers, contributors, maintainers, and community members are not responsible for how third parties use the application.
+- If you believe that content infringes your rights, contact the service, source, provider, or website hosting that content directly. Nekomo cannot remove content it does not host, own, control, or distribute.
+- Do not upload Nekomo, Kuro No, Shiro, or any fork to the Google Play Store or another app store without ensuring compliance with that platform's terms and applicable law.
+- By using Nekomo, you acknowledge that you use the software at your own discretion and risk.
+
+---
+
+<div align="center">
+
+### 🐱 Nekomo — Cat too.
+
+</div>
