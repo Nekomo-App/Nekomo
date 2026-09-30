@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐱 Nekomo
+<img src="assets/logo.png" alt="Nekomo logo" width="260">
 
 ### A community-driven anime client built from the legacy Shiro and Kuro projects
 
@@ -224,6 +224,8 @@ Please read this section carefully before using, distributing, or contributing t
 
 <div align="center">
 
-### 🐱 Nekomo — Cat too.
+<img src="assets/logo.png" alt="Nekomo logo" width="120">
+
+### 猫も — Nekomo — Cat too.
 
 </div>
