@@ -22,9 +22,6 @@
 
 </div>
 
-> [!WARNING]
-> **Nekomo is currently on hold.** The original developer is inactive, and the application may be buggy or unreliable. Future development, releases, and functionality are not guaranteed.
-
 > [!IMPORTANT]
 > Please read the [DMCA & Legal Disclaimer](#-dmca--legal-disclaimer) before downloading, using, contributing to, or discussing Nekomo.
 
