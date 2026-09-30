@@ -32,17 +32,21 @@
 
 ## ✨ About Nekomo
 
-Nekomo is an anime-focused Android client created from the ashes of the original **Kuro No** and **Shiro** projects.
+Nekomo is an anime-focused Android and Android TV client built in Kotlin, created from the ashes of the original **Kuro No** and **Shiro** projects.
 
-The application is designed to provide:
+The application provides:
 
-- 🎌 AniList-based anime discovery
-- 📺 Anime streaming through third-party sources
-- ⬇️ Download support
-- 📚 Watchlist and anime information
+- 🎌 AniList and MyAnimeList account sync, so your watch progress and list status stay up to date
+- 📺 Anime streaming through a range of third-party extractors/sources
+- ⬇️ Download support for offline viewing
+- 📚 A library/watchlist with bookmarks, subscriptions, and recently-watched tracking
+- 📱🖥️ Separate phone and Android TV builds from the same codebase
+- 🔒 Optional DNS-over-HTTPS (Cloudflare, Google, AdGuard, Quad9) for the app's own API traffic
 - 🌐 Community discussions and project resources
 
 Nekomo is **not affiliated with or officially endorsed by AniList, MyAnimeList, Kitsu, TMDb, or any other third-party service**.
+
+The Android application source code lives in a separate repository: [Nekomo-App/neko-source](https://github.com/Nekomo-App/neko-source).
 
 > **Nekomo** — `猫も` (*Neko-mo*) — can mean “cat too” in Japanese. It can also refer to the sound of moving a shogi piece.
 
