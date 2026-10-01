@@ -8,7 +8,10 @@
 [![Discord](https://img.shields.io/discord/111111111111111111?style=flat-square&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.com/invite/E4Ezmgg7Ka)
 [![License](https://img.shields.io/badge/license-see%20legal%20notice-lightgrey?style=flat-square)](#-dmca--legal-disclaimer)
 
-[Download](https://github.com/Nekomo-App/Nekomo/releases) · [Discord](https://discord.com/invite/E4Ezmgg7Ka) · [Report an Issue](https://github.com/Nekomo-App/Nekomo/issues) · [Source Code](https://github.com/Nekomo-App/neko-source)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/Nekomo-App/neko-source)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Nekomo-App/Nekomo/releases)
+
+[Download](https://github.com/Nekomo-App/Nekomo/releases) · [Source Code](https://github.com/Nekomo-App/neko-source) · [Report an Issue](https://github.com/Nekomo-App/Nekomo/issues) · [Discord](https://discord.com/invite/E4Ezmgg7Ka) · [Website](https://nekomoapp.neocities.org/) · [GitHub](https://github.com/Nekomo-App)
 
 </div>
 
@@ -38,6 +41,19 @@ Not affiliated with or endorsed by AniList, MyAnimeList, Kitsu, TMDb, or any oth
 
 [![GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-181717?style=flat-square&logo=github)](https://github.com/Nekomo-App/Nekomo/releases)
 &nbsp;[Website](https://nekomoapp.neocities.org/) *(occasionally unavailable, work in progress)*
+
+---
+
+## 🌐 Socials
+
+| | Link |
+| --- | --- |
+| 💬 Discord | [discord.com/invite/E4Ezmgg7Ka](https://discord.com/invite/E4Ezmgg7Ka) |
+| 🐙 GitHub org | [Nekomo-App](https://github.com/Nekomo-App) |
+| 📦 App releases | [Nekomo-App/Nekomo](https://github.com/Nekomo-App/Nekomo/releases) |
+| 🧑‍💻 Source code | [Nekomo-App/neko-source](https://github.com/Nekomo-App/neko-source) |
+| 🐛 Issues | [Report a bug](https://github.com/Nekomo-App/Nekomo/issues) |
+| 🌍 Website | [nekomoapp.neocities.org](https://nekomoapp.neocities.org/) *(occasionally unavailable)* |
 
 ---
 
