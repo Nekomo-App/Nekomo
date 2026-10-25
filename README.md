@@ -1,4 +1,6 @@
 <div align="center"><img src="assets/logo.png" alt="Nekomo logo" width="160">
+
+
 A community-driven anime client built from the legacy Shiro and Kuro projects
 
 ""GitHub Stars" (https://img.shields.io/github/stars/Nekomo-App/Nekomo?style=flat-square&logo=github&color=f5c542)" (https://github.com/Nekomo-App/Nekomo/stargazers)
