@@ -1,126 +1,189 @@
-<div align="center"><img src="assets/logo.png" alt="Nekomo logo" width="160">
+<div align="center"><img src="assets/logo.png" alt="Nekomo Logo" width="150">Nekomo
 
+猫も · Cat too.
 
-A community-driven anime client built from the legacy Shiro and Kuro projects
+A community-driven anime client built from the legacy Shiro and Kuro projects.
 
-""GitHub Stars" (https://img.shields.io/github/stars/Nekomo-App/Nekomo?style=flat-square&logo=github&color=f5c542)" (https://github.com/Nekomo-App/Nekomo/stargazers)
-""Discord" (https://img.shields.io/discord/111111111111111111?style=flat-square&logo=discord&logoColor=white&label=Discord&color=5865F2)" (https://discord.com/invite/E4Ezmgg7Ka)
-""License" (https://img.shields.io/badge/license-see%20legal%20notice-lightgrey?style=flat-square)" (#-dmca--legal-disclaimer)
+""GitHub Stars" (https://img.shields.io/github/stars/Nekomo-App/Nekomo?style=for-the-badge&logo=github&color=f5c542)" (https://github.com/Nekomo-App/Nekomo/stargazers)
+""Platform" (https://img.shields.io/badge/Platform-Android%20%7C%20Android%20TV-3DDC84?style=for-the-badge&logo=android&logoColor=white)" (https://github.com/Nekomo-App/Nekomo/releases)
+""Language" (https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)" (https://github.com/Nekomo-App/neko-source)
 
-""Kotlin" (https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white)" (https://github.com/Nekomo-App/neko-source)
-""Platform" (https://img.shields.io/badge/Platform-Android%20%7C%20Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white)" (https://github.com/Nekomo-App/Nekomo/releases)
+"Website" (https://nekomoapp.netlify.app) · "Download" (https://github.com/Nekomo-App/Nekomo/releases) · "Source Code" (https://github.com/Nekomo-App/neko-source) · "Discord" (https://discord.com/invite/E4Ezmgg7Ka)
 
-"Download" (https://github.com/Nekomo-App/Nekomo/releases) · "Source Code" (https://github.com/Nekomo-App/neko-source) · "Report an Issue" (https://github.com/Nekomo-App/Nekomo/issues) · "Discord" (https://discord.com/invite/E4Ezmgg7Ka) · "Website" (https://nekomoapp.netlify.app) · "GitHub" (https://github.com/Nekomo-App)
+</div>---
 
-</div>«[!IMPORTANT]
-Please read the "DMCA & Legal Disclaimer" (#-dmca--legal-disclaimer) before downloading, using, contributing to, or discussing Nekomo.»
+«[!IMPORTANT]
+Before downloading, using, distributing, or contributing to Nekomo, please read the "DMCA & Legal Disclaimer" (#-dmca--legal-disclaimer).»
 
----
+✨ About Nekomo
 
-✨ About
+Nekomo is an anime-focused client for Android and Android TV, built with Kotlin and developed from the legacy Kuro No and Shiro projects.
 
-Nekomo is an anime-focused Android and Android TV client, built in Kotlin, created from the ashes of the original Kuro No and Shiro projects.
+Designed around a community-driven approach, Nekomo brings anime discovery, library management, and third-party integrations together in one application.
 
-- 🎌 AniList and MyAnimeList sync
-- 📺 Anime streaming via third-party extractors
-- ⬇️ Download support for offline viewing
-- 📚 Library/watchlist with bookmarks and recently-watched tracking
-- 📱🖥️ Phone and Android TV builds from one codebase
-- 🔒 Optional DNS-over-HTTPS for the app's own API traffic
+Features
 
-Not affiliated with or endorsed by AniList, MyAnimeList, Kitsu, TMDb, or any other third-party service.
+Feature| Description
+🎌 Anime Tracking| AniList and MyAnimeList synchronization
+📺 Streaming| Anime playback through third-party extractors
+📥 Offline Viewing| Download support for offline access
+📚 Personal Library| Watchlists, bookmarks, and recently watched
+📱 Android Support| Phone and Android TV builds from one codebase
+🔒 DNS Privacy| Optional DNS-over-HTTPS for the app's own API traffic
 
-«Nekomo — "猫も" (Neko-mo) — "cat too" in Japanese, also the sound of moving a shogi piece.»
+<sub>Nekomo is not affiliated with or endorsed by AniList, MyAnimeList, Kitsu, TMDb, or other third-party services.</sub>
+
+What does Nekomo mean?
+
+Nekomo (猫も) can be read as "cat too" in Japanese. It's a small nod to the project's name and its community identity.
 
 ---
 
 📥 Downloads
 
-""GitHub Releases" (https://img.shields.io/badge/Download-GitHub%20Releases-181717?style=flat-square&logo=github)" (https://github.com/Nekomo-App/Nekomo/releases)
- "Website" (https://nekomoapp.netlify.app)
+<div align="center">""Download Nekomo" (https://img.shields.io/badge/Download-Latest%20Releases-181717?style=for-the-badge&logo=github)" (https://github.com/Nekomo-App/Nekomo/releases)
 
----
+Get Nekomo from the official GitHub releases page.
 
-🌐 Socials
+"🌐 Visit the Website" (https://nekomoapp.netlify.app)
 
-| Link
-💬 Discord| "discord.com/invite/E4Ezmgg7Ka" (https://discord.com/invite/E4Ezmgg7Ka)
-🐙 GitHub org| "Nekomo-App" (https://github.com/Nekomo-App)
-📦 App releases| "Nekomo-App/Nekomo" (https://github.com/Nekomo-App/Nekomo/releases)
-🧑‍💻 Source code| "Nekomo-App/neko-source" (https://github.com/Nekomo-App/neko-source)
-🐛 Issues| "Report a bug" (https://github.com/Nekomo-App/Nekomo/issues)
+</div>---
+
+🌐 Official Links
+
+Resource| Link
 🌍 Website| "nekomoapp.netlify.app" (https://nekomoapp.netlify.app)
+📦 Releases| "Download Nekomo" (https://github.com/Nekomo-App/Nekomo/releases)
+💻 Source Code| "neko-source" (https://github.com/Nekomo-App/neko-source)
+🐙 GitHub Organization| "Nekomo-App" (https://github.com/Nekomo-App)
+💬 Discord Community| "Join Discord" (https://discord.com/invite/E4Ezmgg7Ka)
+🐛 Bug Reports| "Open an Issue" (https://github.com/Nekomo-App/Nekomo/issues)
 
 ---
 
 💬 Community
 
-Join the "Discord" (https://discord.com/invite/E4Ezmgg7Ka) to discuss anime, report bugs, request features, and keep up with the project's status.
+Join the "Nekomo Discord community" (https://discord.com/invite/E4Ezmgg7Ka) to discuss anime, share feedback, report bugs, request features, and follow project updates.
 
 <details>
-<summary>Discord widget</summary>
-<br><a href="https://discord.com/invite/E4Ezmgg7Ka">
+<summary><strong>Join the Nekomo Discord server</strong></summary><br><div align="center"><a href="https://discord.com/invite/E4Ezmgg7Ka">
   <img src="https://invidget.switchblade.xyz/E4Ezmgg7Ka" alt="Join the Nekomo Discord server">
-</a></details>---
+</a></div></details>---
 
 🚧 Project Status
 
-Nekomo is a community-maintained project, not under active, guaranteed development. It may receive updates, be rewritten, go inactive, be picked up by new contributors, or go private — but for now it also doubles as an anime community hub.
+Nekomo is a community-maintained project without guaranteed active development.
+
+The project may receive updates, undergo rewrites, become inactive, welcome new contributors, or change its availability. It also serves as a community hub for anime enthusiasts.
+
+Contributions and community participation are welcome, subject to the project's guidelines.
 
 ---
 
 🤝 Contributing
 
-Contributions are welcome — code, bug reports, docs, design, tutorials, testing. Use GitHub for code/issues and Discord for discussion and coordination.
+Interested in helping out? Contributions are welcome in areas such as:
+
+- 💻 Code and bug fixes
+- 🐛 Bug reports and testing
+- 📖 Documentation and tutorials
+- 🎨 Design and usability feedback
+- 💡 Feature suggestions
+
+Use GitHub for code, issues, and pull requests. Join Discord for community discussion and coordination.
 
 <details>
-<summary><strong>Project guidelines, credits &amp; alternative apps</strong></summary>Guidelines
+<summary><strong>📋 Project Guidelines</strong></summary>- Keep the project low-key; avoid aggressive promotion outside the community.
+- Non-English localization is currently unsupported.
+- Major UI redesigns and changes to project names or logos are not currently accepted.
+- Hentai content is not supported.
 
-- Keep the project low-key — please don't aggressively promote it outside the community.
-- Currently rejected/unsupported: non-English localization, major UI redesigns, new names/logos, hentai content.
+Please discuss proposed changes with the community before undertaking substantial work.
 
-Credits
+</details>---
 
-Original Kuro contributors: "Deceptions" (https://github.com/deceptions) (original developer), "LagradOst / Blatzar" (https://github.com/LagradOst) (Cloudstream).
+🙏 Credits & Acknowledgements
 
-Built on prior work from "Kuro No" (https://github.com/deceptions/no) ("backup" (https://gitee.com/deceptionss/no)) and "Shiro App" (https://github.com/MarshMeadow/shiro-app).
+Nekomo builds upon the work of earlier projects and their contributors.
+
+- Deceptions — "GitHub" (https://github.com/deceptions), original Kuro developer.
+- LagradOst / Blatzar — "GitHub" (https://github.com/LagradOst), Cloudstream project.
+- Kuro No — "Original repository" (https://github.com/deceptions/no) · "Backup repository" (https://gitee.com/deceptionss/no)
+- Shiro App — "Repository" (https://github.com/MarshMeadow/shiro-app)
 
 «[!CAUTION]
-The "original Kuro Discord" (https://discord.gg/YgeFkTMmxh) may have been compromised or taken over — join at your own risk.»
+The "original Kuro Discord server" (https://discord.gg/YgeFkTMmxh) may have been compromised or taken over. Join at your own risk.»
 
-Archived downloads: "Kuro No Mobile 2.2.3" (https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk) · "Kuro No TV 2.2.3" (https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
+Archived Kuro No Downloads
 
-Alternative apps
+Build| Version| Download
+📱 Mobile| 2.2.3| "APK" (https://github.com/deceptions/no/releases/download/2.2.3/2.2.3.apk)
+📺 Android TV| 2.2.3| "APK" (https://github.com/deceptions/no/releases/download/2.2.3/2.2.3-TV.apk)
 
-If Nekomo doesn't fit your needs: "Dantotsu" (https://dantotsu.app/), "Cloudstream" (https://github.com/recloudstream/cloudstream), Miru, "Anilab" (https://anilab.to/). Also friends with Kitsune, AnimeTV, Kamyroll, and HDO PRO (private).
+---
 
-</details>---
+🔄 Alternative Apps
 
-⭐ Support
+Looking for other options? Explore these anime applications and projects.
 
-If you find Nekomo useful, a star on the repo helps show interest and encourages future development.
+- "Dantotsu" (https://dantotsu.app/)
+- "Cloudstream" (https://github.com/recloudstream/cloudstream)
+- "Miru" (https://github.com/miru-project/miru)
+- "Anilab" (https://anilab.to/)
 
-<details>
-<summary>Star history</summary>""Star History Chart" (https://api.star-history.com/svg?repos=Nekomo-App/Nekomo&type=Date)" (https://star-history.com/#Nekomo-App/Nekomo&Date)
+Nekomo also has community connections with Kitsune, AnimeTV, Kamyroll, and HDO PRO (private project).
 
-</details>---
+---
+
+⭐ Support the Project
+
+If you find Nekomo useful, consider starring the repository. Stars help others discover the project and provide a simple way to show community interest.
+
+<div align="center">""Star Nekomo on GitHub" (https://img.shields.io/badge/⭐%20Star%20Nekomo-on%20GitHub-f5c542?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/Nekomo-App/Nekomo/stargazers)
+
+</div><details>
+<summary><strong>📈 Star History</strong></summary><div align="center">""Star History Chart" (https://api.star-history.com/svg?repos=Nekomo-App/Nekomo&type=Date)" (https://star-history.com/#Nekomo-App/Nekomo&Date)
+
+</div></details>---
 
 ⚖️ DMCA & Legal Disclaimer
 
 <details>
-<summary><strong>Click to expand — read before using, distributing, or contributing to Nekomo</strong></summary>- Nekomo is an open-source application and does not host, store, upload, distribute, or provide media content.
+<summary><strong>Read the full legal disclaimer</strong></summary>Application & Content
+
+- Nekomo is an open-source application and does not host, store, upload, distribute, or provide media content.
 - Nekomo does not operate, maintain, own, or control streaming servers, content providers, media sources, or third-party services.
-- Metadata, artwork, images, episode information, titles, descriptions, and other displayed information may come from third-party APIs or services.
+- Metadata, artwork, images, episode information, titles, descriptions, and other displayed information may originate from third-party APIs or services.
+
+Third-Party Services & Intellectual Property
+
 - Nekomo is not affiliated with, endorsed by, sponsored by, or officially connected to AniList, MyAnimeList, Kitsu, TMDb, or any other content provider, company, service, or trademark owner unless explicitly stated.
 - All trademarks, copyrights, logos, names, media, and other intellectual property belong to their respective owners.
-- Users are solely responsible for how they use the software and must comply with all applicable local, national, and international laws.
+
+User Responsibility
+
+- Users are solely responsible for their use of the software and must comply with all applicable local, national, and international laws.
 - Developers, contributors, maintainers, and community members are not responsible for how third parties use the application.
-- If you believe that content infringes your rights, contact the service, source, provider, or website hosting that content directly. Nekomo cannot remove content it does not host, own, control, or distribute.
-- Do not upload Nekomo, Kuro No, Shiro, or any fork to the Google Play Store or another app store without ensuring compliance with that platform's terms and applicable law.
-- By using Nekomo, you acknowledge that you use the software at your own discretion and risk.
+- Users install and use Nekomo at their own discretion and risk.
+
+Copyright & Takedown Requests
+
+If you believe content infringes your rights, contact the service, source, provider, or website hosting that content directly. Nekomo cannot remove content it does not host, own, control, or distribute.
+
+Distribution & App Stores
+
+Do not upload Nekomo, Kuro No, Shiro, or any fork to Google Play or another app store without ensuring compliance with the platform's terms and applicable law.
+
+By using Nekomo, you acknowledge that you are responsible for your use of the software.
 
 </details>---
 
-<div align="center"><img src="assets/logo.png" alt="Nekomo logo" width="90">猫も — Nekomo — Cat too.
+<div align="center"><img src="assets/logo.png" alt="Nekomo Logo" width="80">猫も · Nekomo
+
+Cat too. Built by the community.
+
+"Website" (https://nekomoapp.netlify.app) · "GitHub" (https://github.com/Nekomo-App) · "Discord" (https://discord.com/invite/E4Ezmgg7Ka)
+
+<sub>Community-driven · Android · Android TV</sub>
 
 </div>
