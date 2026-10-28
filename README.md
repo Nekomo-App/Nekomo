@@ -47,7 +47,7 @@ It combines anime discovery, list tracking and a manga reader with a plugin syst
 | 📥 | **Downloads** | Offline viewing |
 | 📱 | **Phone + Android TV** | One codebase, D-pad friendly TV UI. Stable, Beta and Debug channels |
 | 🔄 | **Auto updates** | Built-in updater that follows GitHub releases (stable or pre-release channel) |
-| 🎛️ | **Content filters** | "Movies & TV shows" and "18+ sources" switches, both **off** by default |
+| 🎛️ | **Content filters** | "Movies & TV shows" and "18+ content" switches, both **off** by default (18+ asks you to confirm your age) |
 | 🔒 | **Privacy** | Optional DNS-over-HTTPS, login tokens stored on-device only, no analytics |
 | 🪵 | **Error log** | Persistent in-app error log with one-tap GitHub issue reporting |
 
@@ -76,7 +76,7 @@ Each channel is a separate app, so you can install more than one side by side. F
 
 1. Open **Settings → Extensions**. Every list starts empty.
 2. Paste the URL of a repository **you** trust (CloudStream `repo.json`, Zangetsu `index.json`, Aniyomi/Mihon `index.min.json` or `index.pb`).
-3. Browse what that repository offers and install what you want. You are asked to confirm every install.
+3. Browse what that repository offers and install what you want. You are asked to confirm every install. A step-by-step guide is on the [website](https://nekomoapp.netlify.app/sources).
 4. Installed sources appear in search and in the per-title **Choose source** menu.
 
 Nekomo has **no built-in directory, search or one-click install** for sources, and the maintainers do not recommend, host or endorse any. Extensions run code with the app's permissions, so only install from people you trust. Each installed extension has a **Report** button that opens its author's issue tracker.
@@ -122,7 +122,7 @@ Code, bug reports, testing, docs, design feedback and ideas are all welcome. Use
 - Keep the project low-key; avoid aggressive promotion outside the community.
 - Non-English localization is currently unsupported.
 - Major UI redesigns and changes to the project name or logo are not currently accepted.
-- Hentai content is not part of Nekomo's own catalogue.
+- 18+ content is allowed but **off by default**: it only appears after a user turns on "Show 18+" and confirms they are an adult. Do not post explicit material in community spaces.
 - Please discuss substantial changes with the community before starting work.
 
 </details>
