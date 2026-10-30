@@ -261,3 +261,13 @@ Nekomo ships with no sources installed. Open **Settings > Extensions** to reach 
 - **APK extensions (Aniyomi, Mihon):** listed separately. Nekomo never downloads, installs or updates these automatically; you install them yourself.
 
 An **optional official repository** (free and legal sources only) can be added from the same screen with a repository URL or code. Nothing is installed until you add it and confirm the third-party-code warning, and you can remove it, with the sources it installed, at any time. Any other repository can be added manually by URL; Nekomo does not host or vouch for those.
+
+## Project links
+
+- Website: https://nekomoapp.netlify.app ([screenshots](https://nekomoapp.netlify.app/gallery), [sources guide](https://nekomoapp.netlify.app/sources))
+- App: [Nekomo](https://github.com/Nekomo-App/Nekomo) and its code in [Neko-Source](https://github.com/Nekomo-App/Neko-Source)
+- Docs: [Nekomo-Docs](https://github.com/Nekomo-App/Nekomo-Docs) and [Nekomo-Extensions](https://github.com/Nekomo-App/Nekomo-Extensions)
+- Website source: [Nekomo-Main-Web](https://github.com/Nekomo-App/Nekomo-Main-Web)
+- Legal: [Nekomo-DMCA](https://github.com/Nekomo-App/Nekomo-DMCA)
+- Brand: [Nekomo-Branding](https://github.com/Nekomo-App/Nekomo-Branding)
+- History: [OG-Kuro-No-Source](https://github.com/Nekomo-App/OG-Kuro-No-Source) (archive) and [Nekomo-Web](https://github.com/Nekomo-App/Nekomo-Web) (retired)
