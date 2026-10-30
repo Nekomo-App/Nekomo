@@ -229,7 +229,7 @@ By using Nekomo, you acknowledge that you are responsible for your use of the so
 
 </div>
 
-> **Nekomo is in beta/alpha.** The latest build is [v2.9.0 (pre-release)](https://github.com/Nekomo-App/Nekomo/releases/tag/v2.9.0). The same APKs and `latest.json` are kept in the [`apks`](apks) folder here and in [Neko-Source](https://github.com/Nekomo-App/Neko-Source/tree/main/apks).
+> **Nekomo is in beta/alpha.** The latest build is [v2.9.1 (pre-release)](https://github.com/Nekomo-App/Nekomo/releases/tag/v2.9.1). The same APKs and `latest.json` are kept in the [`apks`](apks) folder here and in [Neko-Source](https://github.com/Nekomo-App/Neko-Source/tree/main/apks).
 
 ## Which build should I download?
 
