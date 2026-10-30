@@ -228,3 +228,36 @@ By using Nekomo, you acknowledge that you are responsible for your use of the so
 <sub>Community-driven · Android · Android TV</sub>
 
 </div>
+
+## Which build should I download?
+
+| Channel | Phone app | Android TV app |
+|---|---|---|
+| Stable | `Nekomo-phone-release.apk` (`app.nekomo`) | `Nekomo-TV-release.apk` (`app.nekomo.tv`) |
+| Beta | `Nekomo-phone-beta.apk` (`app.nekomo.beta`) | `Nekomo-TV-beta.apk` (`app.nekomo.tv.beta`) |
+| Alpha (debug) | `Nekomo-phone-alpha.apk` (`app.nekomo.debug`) | `Nekomo-TV-alpha.apk` (`app.nekomo.tv.debug`) |
+
+Every Android TV build has **TV** in its app name and file name. Channels install side by side because they use different package names. Requires Android 7.0 or newer. The TV APKs can also be installed on a phone for testing.
+
+## Highlights
+
+- **Details for every title:** poster, banner, synopsis, genres, rating, season, studio, release date, episodes and an in-app **trailer** (built-in player with play/pause).
+- **Metadata is separate from streaming:** titles opened through an installed extension are completed from the built-in catalogue, so incomplete extension data no longer leaves blank pages.
+- **Backup metadata APIs** and a stale-page cache, so details still open when one service is down.
+- **Sources dropdown** on every title: your default source first, other installed sources as alternatives, a clear message when none match.
+- **Tracker mode:** with no sources installed you can still search, save to an offline library, track episodes and sync to AniList later.
+- **Playback:** pop-out (picture-in-picture), external players, subtitles, and clear errors instead of endless spinners.
+- **Home customization:** choose metadata providers, official link-out rows and sections, and reorder them.
+- **Privacy:** incognito mode, an off-by-default 18+ switch with optional device lock, and movies/TV shows off by default.
+- **Loading and error screens** when opening a title, with Try again / Go back.
+
+## The optional Nekomo repository and the Extensions manager
+
+Nekomo ships with no sources installed. Open **Settings > Extensions** to reach the Extensions manager, one place for:
+
+- **Repositories and sources:** CloudStream plugins (`.cs3`) and Zangetsu scripts (`.js`). Enable, disable, update, uninstall, view details and per-provider switches.
+- **Metadata APIs (built in):** AniList (main), Kitsu, MyAnimeList via Jikan, TVMaze and TMDB (needs your own key). Backups switch on automatically when the main API is down or rate-limited.
+- **Automatic updates:** on or off, frequency (6 hours to 7 days), manual check, update all or one by one, and an update history that records every install, update, removal and error. A failed update keeps the previous version.
+- **APK extensions (Aniyomi, Mihon):** listed separately. Nekomo never downloads, installs or updates these automatically; you install them yourself.
+
+An **optional official repository** (free and legal sources only) can be added from the same screen with a repository URL or code. Nothing is installed until you add it and confirm the third-party-code warning, and you can remove it, with the sources it installed, at any time. Any other repository can be added manually by URL; Nekomo does not host or vouch for those.
