@@ -1,0 +1,54 @@
+{
+    "version": "2.9.0",
+    "versionCode": 37,
+    "builds": [
+        {
+            "file": "Nekomo-phone-release.apk",
+            "flavor": "phone",
+            "channel": "stable",
+            "size": 25459994,
+            "sha256": "1e2932f2627862be8de18d459af9aa4d547012ef38bd8d28777c2f0c3f5c24b7",
+            "builtAt": "2026-10-30T15:50:56-07:00"
+        },
+        {
+            "file": "Nekomo-phone-beta.apk",
+            "flavor": "phone",
+            "channel": "beta",
+            "size": 25460014,
+            "sha256": "fd262d20a735d2f0f7ad83f066629f0e161c1122d1bdf88a622e936b59b9034a",
+            "builtAt": "2026-10-30T15:49:08-07:00"
+        },
+        {
+            "file": "Nekomo-phone-alpha.apk",
+            "flavor": "phone",
+            "channel": "alpha",
+            "size": 36446239,
+            "sha256": "3c02ca008f61dffff861778ba406ee575487d3479aa01de53d284d39227eb183",
+            "builtAt": "2026-10-30T15:46:56-07:00"
+        },
+        {
+            "file": "Nekomo-TV-release.apk",
+            "flavor": "tv",
+            "channel": "stable",
+            "size": 25467091,
+            "sha256": "1941308d34e1c13c03fc81859c2465b1d82a3f97f156a587a01ec0ffc8605b9e",
+            "builtAt": "2026-10-30T15:54:29-07:00"
+        },
+        {
+            "file": "Nekomo-TV-beta.apk",
+            "flavor": "tv",
+            "channel": "beta",
+            "size": 25467103,
+            "sha256": "af5690b01a002f310344c26b23953d8ccfee799157b71350d121f7df9633d786",
+            "builtAt": "2026-10-30T15:52:44-07:00"
+        },
+        {
+            "file": "Nekomo-TV-alpha.apk",
+            "flavor": "tv",
+            "channel": "alpha",
+            "size": 36446075,
+            "sha256": "b726f3fb02ff3db3ab3df44157f0d69582d59d34cc37db55acc5fb83a422dfad",
+            "builtAt": "2026-10-30T15:47:07-07:00"
+        }
+    ]
+}
