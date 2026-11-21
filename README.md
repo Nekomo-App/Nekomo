@@ -42,7 +42,7 @@ It combines anime discovery, list tracking and a manga reader with a plugin syst
 | 🎌 | **Tracking** | AniList, MyAnimeList and Kitsu sign-in and list sync. AniList is also the metadata catalogue |
 | 🧩 | **Bring your own sources** | CloudStream (`.cs3`), Zangetsu (JavaScript), Aniyomi (anime APKs) and Mihon (manga APKs) |
 | 🔀 | **Source chooser** | Pick, per title, which of your installed sources to search and play from |
-| � | **Manga reader** | Browse, read and page through chapters from Mihon sources |
+| — | **Manga reader** | Browse, read and page through chapters from Mihon sources |
 | 📚 | **Library** | Watchlists, bookmarks, subscriptions and recently watched |
 | 📥 | **Downloads** | Offline viewing |
 | 📱 | **Phone + Android TV** | One codebase, D-pad friendly TV UI. Stable, Beta and Debug channels |
@@ -103,11 +103,11 @@ Nekomo has **no built-in directory, search or one-click install** for sources, a
 </div>
 </details>
 
-## � What does Nekomo mean?
+## — What does Nekomo mean?
 
 **猫も** (*neko mo*) reads as **"cat too"** in Japanese. It is a small nod to the project's name and its community identity.
 
-## �🚧 Project status
+## —🚧 Project status
 
 Nekomo is community-maintained, without guaranteed active development. It may receive updates, be rewritten, go quiet or welcome new contributors. Contributions and community participation are welcome within the project's guidelines.
 
